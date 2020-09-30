@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=V3IOfvGmqxs
 
 
 
-### Hi there, I'm Anish Malla - aka [u may Know me as a ytber][MyYtbChannel] 👋
+### Hi there, I'm Anish Malla - aka [u may Know me as a ytber] 👋
 
 [![MyYtbChannel](https://www.youtube.com/channel/UCFBorf0jHu-1WNHGJZDNtew)](https://www.youtube.com/channel/UCFBorf0jHu-1WNHGJZDNtew)
 
@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=V3IOfvGmqxs
 
 ### Connect with me:
 
-[<img align="left" alt="https://www.youtube.com/channel/UCFBorf0jHu-1WNHGJZDNtew" width="22px" src="https://www.youtube.com/channel/UCFBorf0jHu-1WNHGJZDNtew"
+https://www.youtube.com/channel/UCFBorf0jHu-1WNHGJZDNtew ~~ ytb 
 
 <br />
 
