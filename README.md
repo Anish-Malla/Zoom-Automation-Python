@@ -4,9 +4,6 @@ This project signs into your zoom meetings / classes on time automatically for y
 ## A video Tutorial
 https://www.youtube.com/watch?v=V3IOfvGmqxs
 
-# Spam_Bot
-
-Spams the textbox where cursor is.
 
 
 
