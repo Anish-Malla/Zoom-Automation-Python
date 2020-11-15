@@ -8,6 +8,9 @@ This python script signs into your zoom meetings / classes on time **automatical
 
 ![Showcase of project gif](/automatic_signin.gif)
 
+## A Video Tutorial
+https://www.youtube.com/watch?v=V3IOfvGmqxs
+
 ## Setup instructions
 
 **Requirements:** python-3.8.6
@@ -30,6 +33,3 @@ https://pyautogui.readthedocs.io/en/latest/install.html
 **Note: windows users**
 
 The code to open zoom is different for windows, this is shown in the main.py file make the changes accordingly.
-
-## A Video Tutorial
-https://www.youtube.com/watch?v=V3IOfvGmqxs
