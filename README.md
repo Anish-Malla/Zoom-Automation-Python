@@ -4,7 +4,9 @@
 ![GitHub repo stars](https://img.shields.io/github/stars/Anish-Malla/Zoom-Automation-Python?style=social)
 ![GitHub repo forks](https://img.shields.io/github/forks/Anish-Malla/Zoom-Automation-Python?style=social)
 
-This python script signs into your zoom meetings / classes on time automatically for you.
+This python script signs into your zoom meetings / classes on time **automatically** for you.
+
+![Showcase of project gif](/automatic_signin.gif)
 
 ## Setup instructions
 
