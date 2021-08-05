@@ -11,6 +11,10 @@ This python script signs into your zoom meetings / classes on time **automatical
 ## A Video Tutorial
 https://www.youtube.com/watch?v=V3IOfvGmqxs
 
+## ZOOM Setup instructions for muting mic and camera when joining
+
+**Look ZOOM setup instructions folder**
+
 ## Setup instructions
 
 **Requirements:** python-3.8.6
